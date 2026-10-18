@@ -1,0 +1,14 @@
+{
+  "name": "solfeggio-frequencies-generator",
+  "version": "1.0.0",
+  "description": "Helper scripts for the solfeggio frequencies generator: table of the nine tones with nearest notes, interval calculator",
+  "homepage": "https://toolster.net/tone_generator/solfeggio-frequencies",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "table": "node scripts/solfeggio-table.js",
+    "csv": "node scripts/solfeggio-table.js --csv solfeggio-frequencies.csv",
+    "interval": "node scripts/interval.js",
+    "test": "node --test test/check.test.js"
+  }
+}
