@@ -36,6 +36,10 @@ The full table with digit roots, periods and wavelengths is in [`solfeggio-frequ
 2. Set a comfortable volume. A quiet tone is enough for meditation; in headphones start low.
 3. Press Pause or Space when you are done.
 
+## Video
+
+- [Solfeggio frequencies generator, short walkthrough](https://youtu.be/l1tK5nsa5pw)
+
 ## Helper scripts
 
 Small Node.js scripts, no dependencies (Node 18+):
